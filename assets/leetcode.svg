@@ -1,0 +1,18 @@
+
+<svg width="400" height="220" xmlns="http://www.w3.org/2000/svg">
+<style>
+.title { fill: white; font-size: 24px; font-weight: bold; }
+.text { fill: #ccc; font-size: 18px; }
+.bg { fill: #0d1117; }
+</style>
+
+<rect width="100%" height="100%" class="bg"/>
+
+<text x="20" y="40" class="title">LeetCode Stats</text>
+
+<text x="20" y="90" class="text">Easy: 233</text>
+<text x="20" y="130" class="text">Medium: 312</text>
+<text x="20" y="170" class="text">Hard: 49</text>
+
+<text x="20" y="210" class="text">Ranking: 132044</text>
+</svg>
