@@ -1,1 +1,1 @@
-![LeetCode Card](./assets/leetcode.svg)# Leetcode_Status_Card
+<img src="./assets/leetcode.svg" width="400"/>
