@@ -70,6 +70,7 @@ async function main() {
   const user = await fetchStats();
   const svg = generateSVG(user);
 
+  fs.mkdirSync("assets", { recursive: true });
   fs.writeFileSync("assets/leetcode.svg", svg);
 
   console.log("SVG updated");
