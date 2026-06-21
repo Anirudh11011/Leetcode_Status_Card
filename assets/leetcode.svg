@@ -40,7 +40,7 @@
     transform="rotate(-90 125 155)"/>
 
   <text x="125" y="148" text-anchor="middle" class="small">Solved</text>
-  <text x="125" y="176" text-anchor="middle" class="title">616</text>
+  <text x="125" y="176" text-anchor="middle" class="title">617</text>
 
   <rect x="235" y="105" width="230" height="118" rx="16" fill="#21262d" filter="url(#shadow)"/>
 
@@ -56,8 +56,8 @@
 
   <text x="255" y="229" class="label">Hard</text>
   <rect x="330" y="217" width="180" height="10" rx="5" fill="#30363d"/>
-  <rect x="330" y="217" width="28.125" height="10" rx="5" fill="#ef4444"/>
-  <text x="255" y="253" class="value">50</text>
+  <rect x="330" y="217" width="28.687499999999996" height="10" rx="5" fill="#ef4444"/>
+  <text x="255" y="253" class="value">51</text>
 
   <text x="28" y="252" class="subtitle">Auto-updated with GitHub Actions</text>
 </svg>
