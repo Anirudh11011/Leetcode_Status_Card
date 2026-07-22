@@ -31,7 +31,7 @@
 
   <rect x="340" y="24" width="150" height="52" rx="14" fill="#21262d" filter="url(#shadow)"/>
   <text x="360" y="47" class="small">Ranking</text>
-  <text x="360" y="68" class="value">#122925</text>
+  <text x="360" y="68" class="value">#122570</text>
 
   <circle cx="125" cy="155" r="62" fill="none" stroke="#30363d" stroke-width="16"/>
   <circle cx="125" cy="155" r="62" fill="none" stroke="url(#accent)" stroke-width="16"
@@ -46,17 +46,17 @@
 
   <text x="255" y="133" class="label">Easy</text>
   <rect x="330" y="121" width="180" height="10" rx="5" fill="#30363d"/>
-  <rect x="330" y="121" width="139.87616099071207" height="10" rx="5" fill="#22c55e"/>
-  <text x="255" y="157" class="value">251</text>
+  <rect x="330" y="121" width="138.88888888888889" height="10" rx="5" fill="#22c55e"/>
+  <text x="255" y="157" class="value">250</text>
 
   <text x="255" y="181" class="label">Medium</text>
   <rect x="330" y="169" width="180" height="10" rx="5" fill="#30363d"/>
   <rect x="330" y="169" width="180" height="10" rx="5" fill="#f59e0b"/>
-  <text x="255" y="205" class="value">323</text>
+  <text x="255" y="205" class="value">324</text>
 
   <text x="255" y="229" class="label">Hard</text>
   <rect x="330" y="217" width="180" height="10" rx="5" fill="#30363d"/>
-  <rect x="330" y="217" width="28.421052631578945" height="10" rx="5" fill="#ef4444"/>
+  <rect x="330" y="217" width="28.333333333333336" height="10" rx="5" fill="#ef4444"/>
   <text x="255" y="253" class="value">51</text>
 
   <text x="28" y="252" class="subtitle">Auto-updated with GitHub Actions</text>
