@@ -40,23 +40,23 @@
     transform="rotate(-90 125 155)"/>
 
   <text x="125" y="148" text-anchor="middle" class="small">Solved</text>
-  <text x="125" y="176" text-anchor="middle" class="title">625</text>
+  <text x="125" y="176" text-anchor="middle" class="title">626</text>
 
   <rect x="235" y="105" width="230" height="118" rx="16" fill="#21262d" filter="url(#shadow)"/>
 
   <text x="255" y="133" class="label">Easy</text>
   <rect x="330" y="121" width="180" height="10" rx="5" fill="#30363d"/>
-  <rect x="330" y="121" width="138.88888888888889" height="10" rx="5" fill="#22c55e"/>
+  <rect x="330" y="121" width="138.46153846153848" height="10" rx="5" fill="#22c55e"/>
   <text x="255" y="157" class="value">250</text>
 
   <text x="255" y="181" class="label">Medium</text>
   <rect x="330" y="169" width="180" height="10" rx="5" fill="#30363d"/>
   <rect x="330" y="169" width="180" height="10" rx="5" fill="#f59e0b"/>
-  <text x="255" y="205" class="value">324</text>
+  <text x="255" y="205" class="value">325</text>
 
   <text x="255" y="229" class="label">Hard</text>
   <rect x="330" y="217" width="180" height="10" rx="5" fill="#30363d"/>
-  <rect x="330" y="217" width="28.333333333333336" height="10" rx="5" fill="#ef4444"/>
+  <rect x="330" y="217" width="28.246153846153845" height="10" rx="5" fill="#ef4444"/>
   <text x="255" y="253" class="value">51</text>
 
   <text x="28" y="252" class="subtitle">Auto-updated with GitHub Actions</text>
