@@ -40,14 +40,14 @@
     transform="rotate(-90 125 155)"/>
 
   <text x="125" y="148" text-anchor="middle" class="small">Solved</text>
-  <text x="125" y="176" text-anchor="middle" class="title">630</text>
+  <text x="125" y="176" text-anchor="middle" class="title">631</text>
 
   <rect x="235" y="105" width="230" height="118" rx="16" fill="#21262d" filter="url(#shadow)"/>
 
   <text x="255" y="133" class="label">Easy</text>
   <rect x="330" y="121" width="180" height="10" rx="5" fill="#30363d"/>
-  <rect x="330" y="121" width="137.7439024390244" height="10" rx="5" fill="#22c55e"/>
-  <text x="255" y="157" class="value">251</text>
+  <rect x="330" y="121" width="138.29268292682926" height="10" rx="5" fill="#22c55e"/>
+  <text x="255" y="157" class="value">252</text>
 
   <text x="255" y="181" class="label">Medium</text>
   <rect x="330" y="169" width="180" height="10" rx="5" fill="#30363d"/>
