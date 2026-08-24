@@ -31,7 +31,7 @@
 
   <rect x="340" y="24" width="150" height="52" rx="14" fill="#21262d" filter="url(#shadow)"/>
   <text x="360" y="47" class="small">Ranking</text>
-  <text x="360" y="68" class="value">#121088</text>
+  <text x="360" y="68" class="value">#119801</text>
 
   <circle cx="125" cy="155" r="62" fill="none" stroke="#30363d" stroke-width="16"/>
   <circle cx="125" cy="155" r="62" fill="none" stroke="url(#accent)" stroke-width="16"
@@ -40,14 +40,14 @@
     transform="rotate(-90 125 155)"/>
 
   <text x="125" y="148" text-anchor="middle" class="small">Solved</text>
-  <text x="125" y="176" text-anchor="middle" class="title">636</text>
+  <text x="125" y="176" text-anchor="middle" class="title">639</text>
 
   <rect x="235" y="105" width="230" height="118" rx="16" fill="#21262d" filter="url(#shadow)"/>
 
   <text x="255" y="133" class="label">Easy</text>
   <rect x="330" y="121" width="180" height="10" rx="5" fill="#30363d"/>
-  <rect x="330" y="121" width="138.12688821752266" height="10" rx="5" fill="#22c55e"/>
-  <text x="255" y="157" class="value">254</text>
+  <rect x="330" y="121" width="139.7583081570997" height="10" rx="5" fill="#22c55e"/>
+  <text x="255" y="157" class="value">257</text>
 
   <text x="255" y="181" class="label">Medium</text>
   <rect x="330" y="169" width="180" height="10" rx="5" fill="#30363d"/>
