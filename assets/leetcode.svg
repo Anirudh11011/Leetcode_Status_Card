@@ -31,7 +31,7 @@
 
   <rect x="340" y="24" width="150" height="52" rx="14" fill="#21262d" filter="url(#shadow)"/>
   <text x="360" y="47" class="small">Ranking</text>
-  <text x="360" y="68" class="value">#111376</text>
+  <text x="360" y="68" class="value">#111022</text>
 
   <circle cx="125" cy="155" r="62" fill="none" stroke="#30363d" stroke-width="16"/>
   <circle cx="125" cy="155" r="62" fill="none" stroke="url(#accent)" stroke-width="16"
@@ -40,23 +40,23 @@
     transform="rotate(-90 125 155)"/>
 
   <text x="125" y="148" text-anchor="middle" class="small">Solved</text>
-  <text x="125" y="176" text-anchor="middle" class="title">668</text>
+  <text x="125" y="176" text-anchor="middle" class="title">669</text>
 
   <rect x="235" y="105" width="230" height="118" rx="16" fill="#21262d" filter="url(#shadow)"/>
 
   <text x="255" y="133" class="label">Easy</text>
   <rect x="330" y="121" width="180" height="10" rx="5" fill="#30363d"/>
-  <rect x="330" y="121" width="134.61756373937678" height="10" rx="5" fill="#22c55e"/>
+  <rect x="330" y="121" width="134.23728813559322" height="10" rx="5" fill="#22c55e"/>
   <text x="255" y="157" class="value">264</text>
 
   <text x="255" y="181" class="label">Medium</text>
   <rect x="330" y="169" width="180" height="10" rx="5" fill="#30363d"/>
   <rect x="330" y="169" width="180" height="10" rx="5" fill="#f59e0b"/>
-  <text x="255" y="205" class="value">353</text>
+  <text x="255" y="205" class="value">354</text>
 
   <text x="255" y="229" class="label">Hard</text>
   <rect x="330" y="217" width="180" height="10" rx="5" fill="#30363d"/>
-  <rect x="330" y="217" width="26.005665722379604" height="10" rx="5" fill="#ef4444"/>
+  <rect x="330" y="217" width="25.93220338983051" height="10" rx="5" fill="#ef4444"/>
   <text x="255" y="253" class="value">51</text>
 
   <text x="28" y="252" class="subtitle">Auto-updated with GitHub Actions</text>
